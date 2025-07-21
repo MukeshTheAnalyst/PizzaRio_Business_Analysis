@@ -83,7 +83,7 @@ You can also view this project on my personal portfolio website:
 
 **Mukesh Shirke**  
 [GitHub Profile](https://github.com/MukeshTheAnalyst)  
-[Wix Portfolio](https://mukeshshirke12.wixsite.com/mukeshfolio)
+[Wix Portfolio](https://mukeshshirke12.wixsite.com/mukeshfolio)  
 [LinkedIn Profile](https://www.linkedin.com/in/mukeshshirke/)
 
 ---
