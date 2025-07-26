@@ -75,7 +75,7 @@ README.md # Project documentation
 ## 🌐 Portfolio Site
 
 You can also view this project on my personal portfolio website:  
-🔗 [Wix Portfolio – PizzaRio Business Analysis]([https://mukeshshirke12.wixsite.com/mukeshfolio/post/database-to-data-insights])
+🔗 [Wix Portfolio – PizzaRio Analytics: Building a Scalable Data System for a Small Business](https://mukeshshirke12.wixsite.com/mukeshfolio/post/database-to-data-insights)
 
 ---
 
