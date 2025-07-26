@@ -1,5 +1,5 @@
-# 🍕 PizzaRio Business Analysis  
-**End-to-End SQL & Power BI Project**
+# 🍕 PizzaRio Analytics: Building a Scalable Data System for a Small Business 
+**From Raw Excel Files to a Fully Normalized SQL Database and Interactive Power BI Dashboards**
 
 ## 📄 Project Summary
 
