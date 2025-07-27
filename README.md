@@ -1,4 +1,4 @@
-# 🍕 PizzaRio Analytics: Building a Scalable Data System for a Small Business 
+# 🍕 PizzaRio Analytics: Building a Scalable Data Pipeline for a Small Business 
 **From Raw Excel Files to a Fully Normalized SQL Database and Interactive Power BI Dashboards**
 
 ## 📄 Project Summary
